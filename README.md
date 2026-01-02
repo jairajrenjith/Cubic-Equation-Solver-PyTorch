@@ -22,7 +22,5 @@ using PyTorch to directly learn the value of x that minimizes the equation.
 - cubic_equation_solver_pytorch.ipynb: Colab notebook with full implementation
 - cognitiveclass_100_percent.png: Course completion proof
 
-This project was completed as part of a deep learning learning task.
-
 
 By Jairaj R.
